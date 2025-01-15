@@ -1,7 +1,8 @@
 # LumbarDegeneration
 
 About This Notebook
-Hi! I created this notebook to work on the RSNA 2024 Lumbar Spine Degenerative Classification task using PyTorch and pretrained models like ResNet. This is a step-by-step guide where I preprocess the data, train a model, and make predictions for submission. It’s meant to help anyone interested in experimenting with deep learning techniques for medical imaging.
+Hi! I created this notebook to work on the RSNA 2024 Lumbar Spine Degenerative Classification task using PyTorch and pretrained models like ResNet. 
+This is a step-by-step guide where I preprocess the data, train a model, and make predictions for submission. It’s meant to help anyone interested in experimenting with deep learning techniques for medical imaging.
 
 Contents of the Notebook
 Introduction
@@ -51,13 +52,16 @@ Install these libraries using:
 bash
 Copy code
 pip install -r requirements.txt
+
 Dataset:
 You’ll need the RSNA 2024 competition dataset. Place the train.csv file and image directories in the required paths mentioned in the notebook.
+
 How to Use This Notebook
 Download this notebook and open it in Jupyter Notebook or JupyterLab.
 Install the required libraries (see the Requirements section).
 Place the RSNA dataset in the appropriate directories.
 Run the cells step-by-step to process the data, train the model, and generate predictions.
+
 Future Work
 I plan to:
 
