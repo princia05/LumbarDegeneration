@@ -1,5 +1,5 @@
 # LumbarDegeneration
-RSNA 2024 Lumbar Spine Degenerative Classification
+
 About This Notebook
 Hi! I created this notebook to work on the RSNA 2024 Lumbar Spine Degenerative Classification task using PyTorch and pretrained models like ResNet. This is a step-by-step guide where I preprocess the data, train a model, and make predictions for submission. It’s meant to help anyone interested in experimenting with deep learning techniques for medical imaging.
 
