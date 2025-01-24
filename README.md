@@ -52,9 +52,7 @@ Libraries:
 
 **Install these libraries using:**
 
-```bash
-
-pip install -r requirements.txt
+```bash pip install -r requirements.txt
     ```
 
 
