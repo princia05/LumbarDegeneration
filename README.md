@@ -53,9 +53,8 @@ Libraries:
 ### Install these libraries using:
 
 ```bash
-pip install -r requirements.txt
-
-
+    pip install -r requirements.txt
+```
 
  **Dataset:**
 You’ll need the RSNA 2024 competition dataset. Place the train.csv file and image directories in the required paths mentioned in the notebook.
