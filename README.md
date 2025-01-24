@@ -50,9 +50,11 @@ Libraries:
 - Seaborn
 - pydicom (for working with medical images)
 
-**Install these libraries using:**
+### Install these libraries using:
 
-```bash pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+
     ```
 
 
