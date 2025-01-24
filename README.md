@@ -50,24 +50,27 @@ Libraries:
 - Seaborn
 - pydicom (for working with medical images)
 
-- **Install these libraries using:**
+**Install these libraries using:**
 
 ```bash
 
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
-- **Dataset:**
+ **Dataset:**
 You’ll need the RSNA 2024 competition dataset. Place the train.csv file and image directories in the required paths mentioned in the notebook.
-  - **How to Use This Notebook**
+   **How to Use This Notebook**
 Download this notebook and open it in Jupyter Notebook or JupyterLab.
 Install the required libraries (see the Requirements section).
 Place the RSNA dataset in the appropriate directories.
 Run the cells step-by-step to process the data, train the model, and generate predictions.
-## Future Work
-I plan to:
 
-Try other architectures like ConvNeXt or Vision Transformers.
-Experiment with more data augmentation techniques to boost model performance.
-Add detailed error analysis and better visualizations of model predictions.
-Feedback and Contributions
-If you have suggestions or improvements, feel free to share! I’m open to collaborating on this project and learning from others.
+## Contributing
+
+Contributions to the project are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to submit pull requests to help make the Mask Detection System even better.
+
+## Acknowledgments
+
+I would like to thank the open-source community for their contributions and support in developing this project.
+
+
